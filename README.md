@@ -27,8 +27,8 @@ Este directorio contiene todo el código de base que se entrega para el funciona
 
     |-- Utils: Funciones auxiliares para el funcionamiento de los TADs y estructuras de datos
 
-    Estudiante 1: Kevin Alvarez.
-    Estudiante 2: Santiago Martinez.
+    Estudiante 1: Kevin Alvarez // COD: 202022834 // CORREO: k.alvarezr@uniandes.edu.co.
+    Estudiante 2: Santiago Martinez // COD: 202012611 // CORREO: s.martinezd@uniandes.edu.co.
 
 
 
